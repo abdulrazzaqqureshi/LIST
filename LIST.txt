@@ -1,0 +1,112 @@
+// Copyright 2015 the Dart project authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license
+// that can be found in the LICENSE file.
+
+void main() {
+  
+//   int no = 14;
+//   double decimal =4.5;
+//   var both = {1.45,14};
+//   String any = "Razzaq";
+//   num anynum = 1.45;
+// print ("number is ${anynum}");  
+// BOOLEAn
+//   >,<,=,!=,&&,//
+  //      int age =15
+//    bool check = age>15;
+//    print(check); 
+  
+//   num a =1;
+//   num b= 2;
+//   num output=  a + b;
+//     num output=  a -  b;
+//     num output=  a *  b;
+//     num output=  a  / b;
+//     num output=  a  % b;
+//     num output=  a ~/  b;
+//   print("output is &{ouput}");
+  
+//   int x = 5;
+//   int y = ++x;
+//   print (y);
+  
+//   int x = 5
+//   int y = x++ + --x -x + x++ - x-- + ++x;
+// //          5 +  5 - 5 +  5  - 6   + 6
+//   print (y);
+   
+//     num a =1;
+//     num b= 2;
+//  if(a>b){
+//    print("a is greater than b");
+//  }else if(a<b){
+//    print("a is less than b");
+//    }else{
+//    print("not equal");
+//  }
+  
+//   LIST
+//   [.first,.last,.length,.elementAt(),.replaceRange
+//    ,.sort(sequence),]
+//   var list1 = [0,1,2,5,3,5];   
+//    list1 [1]= 1;
+//    print (list1.elementAt(4));
+//    list1.replaceRange(0,1,[5]);
+//    list1.sort();
+//    list1.clear();
+//   print(list2);
+//   EMPTY / NON EMPTY
+  
+//   .isNotEmpty,.isEmpty,.clear
+//   var list2 =[];
+//   list2.add("ali");
+//   list2.clear();
+//   print(list2);
+//  if(list2.isEmpty){
+//   print("empty "); 
+// }  
+//   REVERSED
+//   var list3=[1,7,3,4,5,6,2];
+//   var x=List.of(list3.reversed);
+//   print(x);
+
+//   ADD ALL
+//   list3.addAll([14,15,46]);
+//   list3.sort();
+//   INSERT
+//  list3.insert(1,2);
+//   print(list3);
+  
+//   var list4=["aa","bb"];
+//   list4.insert(1,"ali");
+//   list4.insertAll(1,["aa1","ali"]);
+//     list4.remove("aa");
+//     list4.removeAt(1);
+//   list4.removeAt(list4.length-1);
+//   print(list4);
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+     
+  
+  
+  
+  
+  
+  
+}
+
